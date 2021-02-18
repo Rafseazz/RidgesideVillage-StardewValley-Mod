@@ -299,17 +299,17 @@
 	"FriendshipGain": { "Lenny": 25 },
 	},
 	{
-	"Name": "lola_hauntedskull",
+	"Name": "lola_shadowshaman",
 	"Type": "Monster",
 	"Title": "Best of the Best",
-	"Description": "Anyone up for a challenge? I'll pay you handsomely if you manage to slay 20 Haunted Skulls. Be a dear and slay some for me.\n        -Lola.\n\n- 10000g on Completion",
-	"Objective": "Slay 20 Haunted Skulls",
+	"Description": "Anyone up for a challenge? I'll pay you handsomely if you manage to slay 20 Shadow Shaman. Be a dear and slay some for me.\n        -Lola.\n\n- 5000g on Completion",
+	"Objective": "Slay 20 Shadow Shaman",
 	"DaysLeft": 0,
-	"Reward": 10000,
+	"Reward": 5000,
 	"RewardType": "Money",
-	"RewardDescription": "10000g",
+	"RewardDescription": "5000g",
 	"Cancelable": true,
-	"Trigger": "Haunted_Skull 20 Lola",
+	"Trigger": "Shadow_Shaman 20 Lola",
 	"FriendshipGain": { "Lola": 25 },
 	},
 	{
@@ -774,7 +774,7 @@
 		}
 	},
 	{
-	"QuestName": "lola_hauntedskull",
+	"QuestName": "lola_shadowshaman",
 	"OfferedBy": "Board:RSVQuestBoard",
 	"When": {
 		"Seasons": "spring fall",
