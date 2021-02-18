@@ -127,7 +127,7 @@
 				"rsv.bert21": "There's a small sticker with the name 'Pipo' on it.",
 				"rsv.bert22": "A sticker with the name 'Lil Tomtom' is on the pot.",
 				
-				"rsv.cliff1": "You read the inscription on the gravestone:#'In loving memory of Pegasus, the horse that could fly.#Though your body was never found, may you lie here in peace.'",
+				"rsv.cablecar1": "You read the inscription on the gravestone:#'In loving memory of Pegasus, the horse that could fly.#Though your body was never found, may you lie here in peace.'",
 				
 				"rsv.ezekiel1": "Even a broken clock is right twice a day.",
 				"rsv.ezekiel2": "A pile of logs.",
@@ -302,13 +302,13 @@
 				"rsv.shiro1": "A recently-opened bottle of wine.",
 				"rsv.shiro2": "The trash can is full of used bandages.",
 				"rsv.shiro3": "Looks like Yuuma drew these. They look so good!",
-				"rsv.shiro4": "You pull out a book and read the cover:#'Lorem Ipsum' by Peter Laceholder.",
-				"rsv.shiro5": "You pull out a book and read the cover:#'Lorem Ipsum' by Peter Laceholder.",
+				"rsv.shiro4": "You pull out a book and read the cover:#'The Art of Recovery' by Aubrey Ingram.",
+				"rsv.shiro5": "You pull out a book for children and read the cover:#'The Purple Cat' by Ellen Quest.",
 				"rsv.shiro6": "It's a pile of educational books for varying grade levels.",
 				"rsv.shiro7": "Boxes full of clothes.",
 				"rsv.shiro8": "There's a note attached to the flower. It reads:^'We will return home soon.^Please take care of each other.'",
 				"rsv.shiro9": "The drawers are locked.",
-				"rsv.shiro10": "It's a wheelchair#It seems it hasn't been used for a while now.",
+				"rsv.shiro10": "It's a wheelchair.#Looks like it hasn't been used for a while now.",
 				
 				"rsv.cliffhouseclose": "This abandoned house has been boarded up.",
 				"rsv.undreyapeek": "A figure covered in a black blanket... Is this Undreya?#Undreya: 'Shhh!! Don't be so loud, okay?'",
